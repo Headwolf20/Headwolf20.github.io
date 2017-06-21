@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One');
+
+header{
+	text-align: center;
+}
+
+header a{
+	color: blue;
+	font-family: 'Bowlby One', cursive;
+}
+
+body{
+	color: white;
+	background-color: black;
+}
