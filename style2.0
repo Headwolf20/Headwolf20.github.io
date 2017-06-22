@@ -6,13 +6,13 @@ header{
 
 header a{
 	  color: blue;
-	  margin: 20px;
+	  margin: 10px;
 }
 
 header a h1{
 	 display: inline;
 	 font-family: 'Bowlby One', cursive;
-}
+} 
 
 footer{
 	text-align: center;
